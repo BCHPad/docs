@@ -10,6 +10,7 @@
 
 **Q1 2022:**
 
+* [x] CoinGecko Listing
 * [x] &#x20;Integrated BPAD token to be used to access IDOs
 * [x] SaaS release **V1**; Staking as a Service
 * [x] SaaS release **V2**; Staking as a Service(upgrade on UX, new UI Style, easier to see your rewards realtime)
