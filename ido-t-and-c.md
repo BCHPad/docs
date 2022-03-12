@@ -12,7 +12,7 @@
 * BCHPad reserves the right to cancel the presale at any time.
 * If a project fails to reach softcap, the presale will be canceled and refunded back to users.
 * The project owner must reserve an allocation which will be airdropped to BPAD holders within a set threshold, the airdrop will be done based on holdings.
-* The project owner must purchase >$1,000 worth of BPAD which will be vested and released to them after a month before they can carry out a sale.
+* The project owner must purchase >$1,000 worth of BPAD which will be vested and released to them slowly for a month before they can carry out a sale.
 
 ### Terms and Conditions for users
 
