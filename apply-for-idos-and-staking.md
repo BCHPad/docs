@@ -5,7 +5,7 @@
 "IDO" (Initial Dex Offering) is a new model of token sale pioneered by BCHPad. Here's how it works:
 
 * Project owners purchase >$1,000 of BPAD tokens which is then sent to [<mark style="color:green;">@rhyker</mark>](https://t.me/rhyker) on telegram and then vested for two months to be released back to the project owners.
-* Investors participate in the IDO by holding the set amount of BPAD token i.e our contract checks if you hold the required amount of tokens required to access a sale. IDO fees will no longer be paid in BPAD.
+* Investors participate in the IDO by holding the set amount of BPAD token i.e our contract checks if you hold the required amount of tokens required to access a sale. IDO fees will no longer be collected from holders.
 * Immediate refund to investors if the presale doesn't get completed.
 
 [<mark style="color:green;">Apply to run an IDO LaunchPad NOW</mark>](https://forms.gle/818xYUehVxoexo1D7)<mark style="color:green;"></mark>
