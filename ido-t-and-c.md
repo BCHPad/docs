@@ -8,7 +8,7 @@
 * The project team must go through KYC with the BCHPad team.
 * BCHPad will go through with listing your token on MistSwap and locking the LPs for a year.
 * BCHPad will immediately release the remaining funds raised to the project owner(either for development/marketing).
-* 3% of funds raised will be sent to BCHPad after the end of an IDO.
+* 3% of funds raised will be sent to BCHPad after the end of an IDO which will be used for a buyback and program for BPAD :fire:.
 * BCHPad reserves the right to cancel the presale at any time.
 * If a project fails to reach softcap, the presale will be canceled and refunded back to users.
 * The project owner must reserve an allocation which will be airdropped to BPAD holders within a set threshold, the airdrop will be done based on holdings.
