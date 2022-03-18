@@ -18,3 +18,7 @@
 ### Terms and Conditions for users
 
 * Users must hold the set threshold of BPAD tokens before accessing a presale. This will be a check added in our LaunchPad Contract and new UI.
+
+
+
+Please note that we reserve to change our IDO T\&C anytime without prior notice.
