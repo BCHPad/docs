@@ -2,7 +2,7 @@
 
 ### Terms and Conditions for project owners
 
-* Team token must be locked for a minimum of 6 months on audited locker like [<mark style="color:green;">@BSCrypt</mark>](https://smartbchlock.bscrypt.finance) <mark style="color:green;"></mark> to prevent loss of funds <mark style="color:green;"></mark> or any other 3rd party locker.
+* Team token must be locked for a minimum of 6 months on audited locker like [<mark style="color:green;">@Emberswap</mark>](https://emberswap.com/locker/create) [<mark style="color:green;">@BSCrypt</mark>](https://smartbchlock.bscrypt.finance) <mark style="color:green;"></mark> to prevent loss of funds <mark style="color:green;"></mark> or any other 3rd party locker.
 * Token should not be listed on any dex.
 * Contract address must be audited by our partner QuillAudit before or after the presale.
 * The project team must go through KYC with the BCHPad team.
