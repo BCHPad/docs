@@ -8,7 +8,7 @@ At **BCHPad,** we take the safety of our investors very seriously. We don't tole
 
 ### How it works:
 
-The identities of the project owner(s) are determined by submitting ID documentation (Passport, National ID)
+The identities of the project owner(s) are determined by submitting ID documentation (Passport, National ID, Drivers License)
 
 
 
